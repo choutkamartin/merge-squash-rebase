@@ -1,1 +1,1 @@
-## Should we merge commits, or squash them?
+## Should we merge commits, or squash them? Now, we merged them, lets see what happens when squashing!
