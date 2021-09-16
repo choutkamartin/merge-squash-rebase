@@ -1,0 +1,1 @@
+## Should we merge commits, or squash them?
